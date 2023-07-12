@@ -1,0 +1,21 @@
+* {box-sizing: border-box;}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    
+    align-content: flex-start;
+    height: 160px;
+    width: 160px;
+    
+    
+}
+
+#divm{
+    border: 1px solid black;
+    width:16px;
+    height:16px;
+    
+
+}
+
+
